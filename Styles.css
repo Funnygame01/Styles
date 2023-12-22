@@ -1,3 +1,107 @@
-.PC {
-	background-color: #FF0000;
+a:visited {
+  color: rgb(0, 0, 233, 1.0);
+}
+
+a:hover {
+  color: rgb(233, 0, 0, 1.0);
+}
+
+a:active {
+  color: rgb(233, 0, 0, 1.0);
+}
+a {
+  color: rgb(0, 0, 233, 1.0);
+}
+.bord {
+background-image: url(https://github.com/Funnygame01/Styles/blob/main/cosmos1.jpg?raw=true); /*боди*/
+}
+.bg {
+	background-color: rgba(0, 0, 0, 1); /*мейн*/
+	  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 95%;
+ color: white;
+}
+.MKA { 
+	margin-left: 390px;
+  margin-right: 10px;
+  margin-top: 10px;
+	border: 3px ridge rgb(0, 0, 0);  /* Картинка */
+	
+}
+.MKA-info {
+	margin-left: 5px;
+  margin-right: 10px;
+  margin-top: 10px;
+	border: 3px ridge rgb(0, 0, 0);  /* Картинка info */
+	float: left;
+}
+p {
+margin-left: 5px;
+  margin-right: 0px;     /*текст*/
+  color: rgb(244, 244, 244);
+}
+.h2-1 {
+	text-align: center;
+	border-bottom: 3px double red;
+	border-top: 3px double red;
+    color: rgb(255, 255, 255);
+    margin-left: 5px;
+}
+table, th {
+	
+	color: white;
+    background: linear-gradient( #710193, darkred);
+    box-shadow: 0 0 10px 0 rgb(0, 0, 0, 1.0);
+    float: right;
+}
+.td1 {
+	background-color: rgb(200, 0, 150); /*Переход в таблице*/
+}
+caption {
+	background-color: ghostwhite;
+	color: black;
+}
+.h3-1 {
+	color: navajowhite;
+}
+.footer {
+	text-align: center;
+	background-color: darkred;
+	margin-top: 15px;
+	margin-left: 300px;
+	margin-right: 300px;
+	border: ridge;
+	border-color: black;
+	border-width: 3px;
+}
+.h2-2 {
+	text-align: center;
+}
+.div-1 {
+	text-align: center;
+
+}
+.p-1 {
+	text-align: center;
+	color: navajowhite;
+	margin-right: 43%;
+}
+.div-1 {
+	float: right;
+	color: white;
+	margin-top: 0px;
+	display: inline-block;
+}
+.p-2 {
+	margin-left: 22%;
+	color: navajowhite;
+}
+.h2-3 {
+	margin-left: 21.7%;
+}
+.p-3 {
+	margin-left: 21.6%;
+	color: navajowhite;
 }
