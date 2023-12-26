@@ -1,5 +1,5 @@
 a:visited {
-  color: rgb(0, 0, 233, 1.0);
+  color: rgb(0, 0, 170, 1.0);
 }
 
 a:hover {
@@ -10,7 +10,7 @@ a:active {
   color: rgb(233, 0, 0, 1.0);
 }
 a {
-  color: rgb(0, 0, 233, 1.0);
+  color: rgb(0, 0, 170, 1.0);
 }
 .bord {
 background-image: url(https://github.com/Funnygame01/Styles/blob/main/cosmos1.jpg?raw=true); /*боди*/
@@ -81,7 +81,7 @@ caption {
 }
 .div-1 {
 	text-align: center;
-
+margin-right: 70px;
 }
 .p-1 {
 	text-align: center;
